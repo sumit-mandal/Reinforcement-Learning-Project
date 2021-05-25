@@ -182,5 +182,5 @@ class DQNAgent:
 
 if __name__ == '__main__':
     agent = DQNAgent()
-    # agent.train()
-    agent.perform()
+    agent.train()
+    # agent.perform()
